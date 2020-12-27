@@ -9,3 +9,6 @@ A face recognizer has been built using the face_recognition.py module.
 - If identified, the face is marked by a rectangle around it with the corresponding name.
 
 This model runs with an average accuracy of over 97% and hence is very efficient and reliable.
+
+## 2. Face Recognition using Facenet and mtcnn
+Work in progress...
