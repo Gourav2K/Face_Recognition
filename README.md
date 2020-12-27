@@ -7,6 +7,7 @@ A face recognizer has been built using the face_recognition.py module.
 - The images are then encoded using the face_recognition.face_encodings function and both the name and the encodings are stored into seperate dictionaries.
 - These encodings are then used to identify any person who tries to get authenticated from the webcam.
 - If identified, the face is marked by a rectangle around it with the corresponding name.
+- The pickle module is further used for serialization as it makes the storing efficient an faster.
 
 This model runs with an average accuracy of over 97% and hence is very efficient and reliable.
 
